@@ -21,7 +21,7 @@
   - clamp()
 
 - What attribute of repeat() can be used to fill in as many grid tracks as possible, given certain constraints?
-  - auto-fill() and auto-fit()
+  - auto-fill and auto-fit
 
 - What is the difference between auto-fit and auto-fill?
   - in most cases, the two will work the same
